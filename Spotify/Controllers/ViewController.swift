@@ -1,0 +1,20 @@
+//
+//  ViewController.swift
+//  Spotify
+//
+//  Created by Phan Van Phu on 01/10/2024.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        title = "Home"
+        view.backgroundColor = .red
+    }
+
+
+}
+
